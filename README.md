@@ -14,6 +14,10 @@ Clone this repo to your local machine and run "npm i" in the terminal to install
 - Selecting add a role, you are prompted to enter the name, salary, and department for the role and that role is added to the database.
 - Selecting add and employee, you are prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database.
 - Selcting update an employee role, you are prompted to select an employee to update and their new role and this information is updated in the database.
+- Application allows users to update employee managers
+- Application allows users to view employees by manager
+- Application allows users to view employees by department
+- Application allows users to delete departments, roles, and employees
 
 ## Demonstration:
 
